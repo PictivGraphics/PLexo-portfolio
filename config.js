@@ -1,1 +1,1 @@
-const MAINTENANCE_MODE = ture;
+const MAINTENANCE_MODE = true;
