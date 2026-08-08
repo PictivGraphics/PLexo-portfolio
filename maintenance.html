@@ -4,7 +4,13 @@
 <head>
     
 
+    <script src="config.js"></script>
     
+    <script>
+        if (MAINTENANCE_MODE === false) {
+            window.location.href = "index.html";
+        }
+    </script>
 
 
 
